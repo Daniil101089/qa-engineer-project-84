@@ -26,3 +26,7 @@ status: pass
 - summary: |
     Проверка страницы товара.
 status: pass
+
+- summary: |
+    Проверка корректного отображения информации.
+status: fail.
