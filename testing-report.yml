@@ -4,11 +4,11 @@
 
 - summary: |
     проверка возможности выбора языка сайта
-status: fail
+- status: fail
     
 - summary: |
     Выбор категории фильтрации товаров
-status: pass
+- status: pass
 
 - summary: |
     Удаление товаров из корзины.
@@ -16,17 +16,17 @@ status: pass
 
 - summary: |
     Офорление закза
-status: pass
+- status: pass
 
 
 - summary: |
     Проверка кнопки "Очистить корзину"
-status: pass
+- status: pass
 
 - summary: |
     Проверка страницы товара.
-status: pass
+- status: pass
 
 - summary: |
     Проверка корректного отображения информации.
-status: fail.
+- status: fail.
