@@ -1,32 +1,32 @@
-summary: |
+- summary: |
     проверка кросс-браузерности сайта.
 status: pass
 
-summary: |
+- summary: |
     проверка возможности выбора языка сайта
 status: fail
     
-summary: |
+- summary: |
     Выбор категории фильтрации товаров
 status: pass
 
-summary: |
+- summary: |
     Удаление товаров из корзины.
-status: pass
+- status: pass
 
-summary: |
+- summary: |
     Офорление закза
 status: pass
 
 
-summary: |
+- summary: |
     Проверка кнопки "Очистить корзину"
 status: pass
 
-summary: |
+- summary: |
     Проверка страницы товара.
 status: pass
 
-summary: |
+- summary: |
     Проверка корректного отображения информации.
 status: fail.
