@@ -9,20 +9,20 @@ status: fail
 summary: |
     Выбор категории фильтрации товаров
 status: pass
----
+
 summary: |
     Удаление товаров из корзины.
 status: pass
-    ---
+
 summary: |
     Офорление закза
 status: pass
 
-    ---
+
 summary: |
     Проверка кнопки "Очистить корзину"
 status: pass
-    ---
+
 summary: |
     Проверка страницы товара.
 status: pass
