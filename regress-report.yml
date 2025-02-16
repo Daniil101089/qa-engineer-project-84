@@ -2,37 +2,37 @@
 test-cases:
   - summary: |
     проверка возможности выбора языка сайта
-  status: fail
+    status: fail
     
-- summary: |
+  - summary: |
     Выбор категории фильтрации товаров
-  status: pass
+    status: pass
 
-- summary: |
+  - summary: |
     Удаление товаров из корзины.
-  status: pass
+    status: pass
 
-- summary: |
+  - summary: |
     Офорление закза
-  status: pass
-- summary: |
+    status: pass
+  - summary: |
     Проверка кнопки "Очистить корзину"
-  status: pass
+    status: pass
 
-- summary: |
+  - summary: |
     Проверка страницы товара.
-  status: pass
+    status: pass
 
-- summary: |
+  - summary: |
     Проверка работы клавишь "Previous" и "Next".
-  status: pass
+    status: pass
 
-- summary: |
+  - summary: |
     Проверка фильтрации по фильтру "в наличии".
-  status: pass
+    status: pass
 
-- summary: |
+  - summary: |
     Проверка фильтрации по названию в поле "Поиск".
-  status: pass
+    status: pass
 bugreports: []
   
