@@ -34,5 +34,17 @@ test-cases:
   - summary: |
       Проверка фильтрации по названию в поле "Поиск".
     status: pass
-bugreports: []
+bugreports: 
+  - summary: |
+      Отсутствуют кнопки "Вперед" и "Назад"
+    environment: |
+      Google Chrome   Версия 109.0.5414.120 (Официальная сборка), (32 бит)
+      Яндекс Браузер, Версия 24.10.4.753
+    steps-to-reproduce: |
+      1. Зайти на страницу https://hexlet-products-store.vercel.app/
+      2. Выбрать "Катагория"
+    expected-result: |
+      Выпадает список всех доступных категорий
+    actual-result: |
+      Нет кнопок в верхней части рабочей области (файл "Нет кнопок")
   
